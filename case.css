@@ -1,0 +1,24 @@
+.conatiner{
+    border: 1px solid rgb(214, 9, 77);
+    width: 30%;
+    height: 200px;
+    margin: 150px;
+    padding: 20px;
+    background-color: rgb(214, 128, 15);
+}
+input{
+    border: 1px solid rgb(230, 145, 34);
+    border-radius: 8px;
+    margin:10px ;
+    width: 300px;
+    height: 40px;
+}
+
+button{
+    border:none ;
+    margin: 10px;
+    background-color: rgb(216, 51, 106);
+    width: 60px;
+    height: 50px;
+   
+}
